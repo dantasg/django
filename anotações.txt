@@ -1,0 +1,3 @@
+Em um projeto Django, temos várias aplicações
+Como uma para carrinho de compra, outra para entregas, etc.
+
